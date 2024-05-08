@@ -15,7 +15,7 @@ var move_downleft = false
 var idle = true
 
 
-func _physics_process(delta):
+func _physics_process(_delta):
 	idle = true
 	motion = Vector2.ZERO
 	

@@ -1,4 +1,4 @@
-[gd_scene load_steps=26 format=3 uid="uid://43k8tpcpdyao"]
+[gd_scene load_steps=26 format=3 uid="uid://d21k012e44did"]
 
 [ext_resource type="Script" path="res://Player.gd" id="1_y3koi"]
 [ext_resource type="Texture2D" uid="uid://ddnrmugu3ijw" path="res://Tiny Wonder Farm Free/characters/main character/walk and idle.png" id="2_e2u4l"]

@@ -266,8 +266,8 @@ script = ExtResource("1")
 
 [node name="Shadow" type="MeshInstance2D" parent="."]
 modulate = Color(0, 0, 0, 0.184314)
-position = Vector2(0, 2)
-scale = Vector2(24.0272, 6.25)
+position = Vector2(-1, 2)
+scale = Vector2(13.654, 3.551)
 mesh = SubResource("SphereMesh_nacry")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]

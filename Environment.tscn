@@ -1,6 +1,6 @@
 [gd_scene load_steps=45 format=3 uid="uid://d4ggrnuia0flb"]
 
-[ext_resource type="PackedScene" path="res://Player.tscn" id="1"]
+[ext_resource type="PackedScene" uid="uid://b60hfgxesfugv" path="res://Player.tscn" id="1"]
 [ext_resource type="Texture2D" uid="uid://umh80pnf4ajm" path="res://Tiny Wonder Farm Free/tilemaps/spring farm tilemap.png" id="2"]
 [ext_resource type="Script" path="res://Camera_Controller.gd" id="3"]
 [ext_resource type="Texture2D" uid="uid://b5rech71gp1mx" path="res://Tiny Wonder Farm Free/tilemaps/farm bridges free.png" id="4"]

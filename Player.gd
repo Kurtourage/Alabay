@@ -14,7 +14,7 @@ var move_downright = false
 var move_downleft = false
 var idle = true
 
-#burat ni darrem
+#burat ni darrems
 func _physics_process(_delta):
 	idle = true
 	motion = Vector2.ZERO
